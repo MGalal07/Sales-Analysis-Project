@@ -1,6 +1,6 @@
 # Sales Analysis
 
-## Bike Stores Business in America
+## Bike Stores Business in America 🚴‍♂️🚴‍♀️
 
 ### Project Overview
 
