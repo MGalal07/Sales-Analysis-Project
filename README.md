@@ -14,7 +14,8 @@ Sales Data: The primery dataset used for this analysis contains SQL server  data
 
 - SQL Server: Database set up, data cleaning.
 - MS Excel: Analysis, capturing trends and creating a primilnary interactive dashboard.
-- Tableau: For creating an interactive dashboard as an Executive summary for top management.
+- Tableau: For creating an interactive dashboard as an Executive summary for top management. Check out my interactive dashboards on [Tableau Public](https://public.tableau.com/app/profile/mostafa.galal/viz/BikesDashboard_17124761322170/Dashboard1).
+
 
 ### Data Cleaning/Preperation
 
